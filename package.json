@@ -1,0 +1,25 @@
+{
+  "name": "ommnia-axon-syntax-highlighting",
+  "displayName": "Ommnia Axon Syntax Highlighting",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "axon",
+      "aliases": ["axon", "axon"],
+      "extensions": [".axon"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "axon",
+      "scopeName": "source.axon",
+      "path": "./syntaxes/axon.tmLanguage.json"
+    }]
+  }
+}
