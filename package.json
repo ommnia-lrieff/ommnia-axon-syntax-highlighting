@@ -3,6 +3,10 @@
   "displayName": "Ommnia Axon Syntax Highlighting",
   "description": "",
   "version": "0.0.1",
+  "publisher": "OmmniaSystems",
+  "repository": {
+    "url": "https://github.com/ommnia-lrieff/ommnia-axon-syntax-highlighting"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
