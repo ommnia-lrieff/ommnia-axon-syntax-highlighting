@@ -8,7 +8,7 @@
     "url": "https://github.com/ommnia-lrieff/ommnia-axon-syntax-highlighting"
   },
   "engines": {
-    "vscode": "^1.91.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Programming Languages"
